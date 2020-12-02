@@ -75,3 +75,19 @@ img{
    padding: 20px 50px;
    
 }
+
+.heading-container{
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+
+}
+
+.heading{
+    border: 2px solid black;
+    max-width: 500px;
+}
+
+.heading > h1 , p {
+    margin: 10px;
+}
