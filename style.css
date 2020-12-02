@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: red;
+    background-color: rgb(197, 133, 133);
 }
 .container{
     background-color: red;
@@ -22,7 +22,7 @@ body{
     border: 2px solid black;
     margin: 5px;
     width: 1200px;
-    background-color: wheat;
+    background-color: rgb(152, 185, 159);
 }
 
 .list{
@@ -42,7 +42,7 @@ body{
     border: 2px solid black;
     margin: 5px;
     width: 300px;
-    background-color: wheat;
+    background-color:rgb(152, 185, 159);
 }
 .list2{
     display: flex;
@@ -88,6 +88,9 @@ img{
     max-width: 500px;
 }
 
+.heading > h1 {
+    color: azure;
+}
 .heading > h1 , p {
     margin: 10px;
 }
@@ -96,4 +99,5 @@ img{
     border: 2px solid black;
     margin: 36px 159px;
     padding:40px 0px;
+    background-color: rgb(104, 150, 150);
 }
