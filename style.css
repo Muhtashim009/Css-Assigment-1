@@ -38,6 +38,8 @@ body{
     margin: 3px;
 }
 
+
+
 .nav2{
     border: 2px solid black;
     margin: 5px;
@@ -57,6 +59,14 @@ body{
     border: 1px solid black ;
     margin: 3px;
     margin-left: 50px;
+}
+
+.items2:hover{
+    background-color:aliceblue;
+}
+
+.items:hover{
+    background-color: aliceblue;
 }
 
 .card-container{
