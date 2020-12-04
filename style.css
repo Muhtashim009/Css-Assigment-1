@@ -22,7 +22,7 @@ body{
     border: 2px solid black;
     margin: 5px;
     width: 1200px;
-    background-color:rgb(152, 185, 159);
+    background-color:rgb(117, 139, 151);
 }
 
 .list{
@@ -45,7 +45,7 @@ body{
     border: 2px solid black;
     margin: 5px;
     width: 300px;
-    background-color:rgb(152, 185, 159);
+    background-color:rgb(117, 139, 151);
 }
 .list2{
     display: flex;
