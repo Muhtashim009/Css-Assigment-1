@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rgb(197, 133, 133);
+    background-color: rgb(180, 150, 150);
 }
 .container{
     background-color: red;
@@ -22,7 +22,7 @@ body{
     border: 2px solid black;
     margin: 5px;
     width: 1200px;
-    background-color: rgb(152, 185, 159);
+    background-color:rgb(152, 185, 159);
 }
 
 .list{
@@ -36,6 +36,7 @@ body{
     padding: 9px 10px;
     border: 1px solid black ;
     margin: 3px;
+    background-color: #e9defb;
 }
 
 
@@ -59,6 +60,7 @@ body{
     border: 1px solid black ;
     margin: 3px;
     margin-left: 50px;
+    background-color: #e9defb;
 }
 
 .items2:hover{
