@@ -62,6 +62,7 @@ body{
 .card-container{
     border: 2px solid black;
     margin: 40px;
+    background-color: #e9defb;
 }
 
 img{
